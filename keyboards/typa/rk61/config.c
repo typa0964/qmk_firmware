@@ -1,0 +1,11 @@
+#define VENDOR_ID 0x0000
+#define PRODUCT_ID 0x6461
+#define DEVICE_VER 0x0001
+#define MANUFACTURER "Royal Kludge"
+#define PRODUCT "RK61"
+#define MATRIX_ROWS 5
+#define MATRIX_COLS 15
+
+#define DIODE_DIRECTION COL2ROW
+
+#define USB_POLLING_INTERVAL_MS 10
